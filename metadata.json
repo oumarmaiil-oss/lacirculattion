@@ -1,0 +1,8 @@
+{
+  "name": "aterlier du coeur",
+  "description": "Atelier interactif de physiologie cardiovasculaire : cœur 2D/3D, circulation, ECG, bruits du cœur, athérosclérose et pharmacologie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
